@@ -62,6 +62,7 @@ about
 -after
 after
 The following is a simple output assuming that the project implemented in Java.
+```sh
 +---------------------------------------------------------------+
 | $ java dsprj |
 | NIL after could |
@@ -70,3 +71,4 @@ The following is a simple output assuming that the project implemented in Java.
 | The "after" is deleted |
 | NIL NIL could |
 +---------------------------------------------------------------+
+```
