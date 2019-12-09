@@ -64,11 +64,11 @@ after
 The following is a simple output assuming that the project implemented in Java.
 ```sh
 +---------------------------------------------------------------+
-| $ java dsprj |
-| NIL after could |
-| after NIL could |
-| NIL NIL after |
-| The "after" is deleted |
-| NIL NIL could |
+ $ java dsprj
+ NIL after could 
+ after NIL could 
+ NIL NIL after 
+ The "after" is deleted 
+ NIL NIL could 
 +---------------------------------------------------------------+
 ```
