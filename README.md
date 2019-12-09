@@ -1,23 +1,22 @@
 # Data-Structure-Final-Project---Red-Black-Tree
-COSE213 Data Structure – Final project 2018-06-09
 
 1. Implement a program which performs the following functions.
-• The input file words.txt contains the English words of length five as specified in the
+* The input file words.txt contains the English words of length five as specified in the
 assigments
-• Build a red-black tree with the words specified in the file words.txt
-• The input file cmd.txt, which is also called as the command file, contains multiple
+*  Build a red-black tree with the words specified in the file words.txt
+* The input file cmd.txt, which is also called as the command file, contains multiple
 lines. For each line, we perform the following operation.
 – If the line is five letter words, it specifies search operation.
 – If the first character of the line begins with - character, this line specifies delete
 operation.
-• For each search operation, print the search result
+* For each search operation, print the search result
 – If there is a preceding word, print it. Print NIL otherwise.
 – Print the word itself
 – If there is a suceeding word, print it. Print NIL otherwise.
-• For each delete operation, delete the word in the red-black tree.
+* For each delete operation, delete the word in the red-black tree.
 – If the word exists in the red-black tree, print a message that the word is deleted
 – If the word doesn’t exist, print a message that the word isn’t in the red-black tree
-• You don’t need to update the input file or create a separate output file
+* You don’t need to update the input file or create a separate output file
 
 Example
 Let’s assume that the input file words.txt contains the following
